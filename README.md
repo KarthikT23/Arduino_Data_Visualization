@@ -2,6 +2,10 @@
 Real-Time Data Visualization and CSV Logging with Arduino and Python
 
 In this repo, I demonstrate how to send sensor data from the Arduino, plot the data in python, and then automatically save the data to a CSV file.
+Make sure to keep the python file in the same folder as the Arduino code, and ensure the COM port and Baud rate are the same as in the Arduino code.
+Do not keep the Serial Monitor and Plotter open before running the python script, as the COM port cannot be accessed by the script.
+
+
 
 # Block Diagram
 ![Capture](https://github.com/KarthikT23/Arduino_Data_Visualization/assets/119528503/f14105e8-0ffe-445d-89cd-6299f4933b03)

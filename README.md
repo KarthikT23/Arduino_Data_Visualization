@@ -25,34 +25,34 @@ In this repo, I demonstrate how to send sensor data from the Arduino, plot the d
 
 
 
-# Outputs
-Circuitry
+
+# Circuitry
 ![Snapchat-126413331](https://github.com/KarthikT23/Arduino_Data_Visualization/assets/119528503/00b1fcc4-4a2b-4639-815c-41ef4295626e)
 
 
 
 
-Arduino Serial Monitor Output
+# Arduino Serial Monitor Output
 ![Capture1](https://github.com/KarthikT23/Arduino_Data_Visualization/assets/119528503/156db692-83c1-412e-a958-b3850204cf25)
 
 
 
 
 
-Arduino Serial Plotter Output
+# Arduino Serial Plotter Output
 ![Capture2](https://github.com/KarthikT23/Arduino_Data_Visualization/assets/119528503/7ebf9f64-0042-4cbd-9258-7215f320cb55)
 
 
 
 
-Python Script Output in VS Code
+# Python Script Output in VS Code
 ![Capture3](https://github.com/KarthikT23/Arduino_Data_Visualization/assets/119528503/345efff4-862a-41bd-8030-06e0c6a73183)
 
 
 
 
 
-Matplotlib plot using Python Script
+# Matplotlib plot using Python Script
 ![Figure_1](https://github.com/KarthikT23/Arduino_Data_Visualization/assets/119528503/799ea92f-1eec-4d0f-b113-9e78b39c12a7)
 
 
